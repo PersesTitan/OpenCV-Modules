@@ -1,0 +1,5 @@
+* linguist-vendored
+*.java linguist-detectable=true
+*.kotlin linguist-detectable=true
+*.sh linguist-detectable=true
+*.kt linguist-detectable=true
