@@ -1,4 +1,4 @@
-* linguist-vendored
+* linguist-detectable=false
 *.java linguist-detectable=true
 *.kotlin linguist-detectable=true
 *.sh linguist-detectable=true
